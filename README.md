@@ -26,10 +26,10 @@ Currently working as a **Full Stack Developer**, while actively building **AI-dr
 ---
 
 ## 🧠 What I’m Working On
-- 🔹 Full-stack applications with clean UI and scalable backend
-- 🔹 Machine Learning & Deep Learning projects
-- 🔹 Data analysis and predictive modeling
-- 🔹 Deploying ML models and integrating them into web apps
+- 🔹 Full-stack applications with clean UI and scalable backend  
+- 🔹 Machine Learning & Deep Learning projects  
+- 🔹 Data analysis and predictive modeling  
+- 🔹 Deploying ML models and integrating them into web apps  
 
 ---
 
@@ -51,15 +51,14 @@ Each project includes proper documentation and reproducible code.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-syscube&show_icons=true&theme=tokyonight)
+## 🤝 Let’s Connect
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-syscube&layout=compact&theme=tokyonight)
+<a href="https://www.linkedin.com/in/aryanparmarr/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+       alt="LinkedIn" 
+       width="40" height="40"/>
+</a>
 
 ---
-
-## 🤝 Let’s Connect
-- 💼 Open to collaboration on **Web, ML, and AI projects**
-- 🚀 Always learning and building
 
 📫 **Feel free to explore my repositories and connect!**
